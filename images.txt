@@ -1,1 +1,1 @@
-busybox
+docker.io/jumpserver/core:v4.0.1-ce
