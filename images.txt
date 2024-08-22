@@ -1,1 +1,1 @@
-mysql
+lizhenliang/ingress-nginx-controller:v1.1.0
